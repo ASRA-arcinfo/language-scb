@@ -1,8 +1,8 @@
 {
-  "name": "language-freebasic",
-  "version": "0.0.10",
-  "description": "FreeBASIC Language Support for Atom",
-  "repository": "https://github.com/mudhairless/language-freebasic",
+  "name": "language-SCB",
+  "version": "1.0.0",
+  "description": "PcVue's SCADABasic Language support for Atom",
+  "repository": "https://github.com/ASRA-arcinfo/language-SCB",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

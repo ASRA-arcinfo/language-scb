@@ -1,5 +1,5 @@
 # lang-freebasic package
 
-FreeBASIC Language support for Atom
+PcVue's SCADABasic Language support for Atom
 
-Get FreeBASIC at http://freebasic.net/get
+Get PcVue SCADA at http://www.pcvuesolutions.com
