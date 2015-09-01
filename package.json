@@ -1,6 +1,6 @@
 {
   "name": "language-SCB",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PcVue's SCADABasic Language support for Atom",
   "repository": "https://github.com/ASRA-arcinfo/language-SCB",
   "license": "MIT",
