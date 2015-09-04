@@ -1,7 +1,8 @@
 {
     "scopeName": "source.SCADABasic",
     "fileTypes": [
-        "scb"
+        "scb",
+        "svb"
     ],
     "firstLineMatch": "-[*]-( Mode:)? SCADABasic -[*]-",
     "name": "SCADABasic",
